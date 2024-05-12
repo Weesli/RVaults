@@ -1,0 +1,4 @@
+name: RVaults
+version: '${project.version}'
+main: net.weesli.rvaults.RVaults
+api-version: '1.20'
