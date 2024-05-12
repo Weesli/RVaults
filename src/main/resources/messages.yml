@@ -1,0 +1,26 @@
+# Messages file
+
+NOT-PLAYER-ARGUMENT: "&cPlease enter a player name"
+PLAYER-NOT-FOUND: "&cPlayer not found"
+NOT-ADD-YOU-SELF: "&cYou cant't add yourself"
+ADDED-PLAYER: "&a%player% has been added your storage!"
+PLAYER-ALREADY-ADDED-STORAGE: "&cThis player already added to storage!"
+NOT-REMOVE-YOU-SELF: "&cYou can't remove yourself"
+PLAYER-ALREADY-NOT-CONTAIN-IN-STORAGE: "&cThis player already not contain in your storage!"
+REMOVE-PLAYER: "&a%player% has been removed your storage!"
+YOU-NOT-CONTAIN-STORAGE: "&cYou are not contain in this player storage!"
+PLAYER-NOT-HAVE-STORAGE: "&cPlayer hasn't storage!"
+DELETED-PLAYER-STORAGE: "&cPlayer's storage deleted"
+
+# Permisions message
+
+PUT-PERMISSION: "&cYou cannot add put item this inventory because this inventory close by owner"
+PICK-PERMISSION: "&cYou cannot item pick up in inventory because this inventory close by owner"
+OPEN-PERMISSION: "&cYou cannot open inventory because this inventory close by owner"
+NO-PERMISSON: "&cYou don't use this command!"
+
+admin-help:
+  - "&e&m                                                                "
+  - "&e/storage admin delete <player> - Delete storage of player         "
+  - "&e/storage admin open <player> - Open storage of player             "
+  - "&e&m                                                                "

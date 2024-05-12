@@ -1,0 +1,47 @@
+#
+#                Author by Weesli
+#                    RVaults
+
+options:
+  prefix: "&6STORAGE &8>> "
+  # Initial number of slots (1 = 9) max = 6 (6 = 54)
+  starter-size: 1
+  # Storage menu title use %player%
+  menu-title: "&8%player%'s repository"
+
+
+inventories:
+  permission-menu:
+    title: '&cPermission Menu'
+    size: 27
+    status-prefix:
+      active: "active"
+      deactive: "deactive"
+    items:
+      pick:
+        title: '&aPick Permission'
+        material: PAPER
+        custom-model-data: 1
+        slot: 11
+        lore:
+          - '&7Current status: &f%status%'
+          - ''
+          - '&eLeft-click to toggle permission'
+      open:
+        title: '&aOpen Permission'
+        material: PAPER
+        custom-model-data: 2
+        slot: 13
+        lore:
+          - '&7Current status: &f%status%'
+          - ''
+          - '&eLeft-click to toggle permission'
+      put:
+        title: '&aPut Permission'
+        material: PAPER
+        custom-model-data: 3
+        slot: 15
+        lore:
+          - '&7Current status: &f%status%'
+          - ''
+          - '&eLeft-click to toggle permission'
