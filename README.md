@@ -19,19 +19,18 @@ Features
 
 Commands
 
-`/storage - Allows you to open your own storage` 
-`/storage permission - open the permission menu`
-`/storage addplayer <player> - Adds a player to your storage`
-`/storage removeplayer <player> - Deletes a player from your storage`
-`/storage open <player> - Accesses the storage of a player who has added you`
-`/storage admin open <player> - Provides access to a player's storage`
-`/storage admin delete <player> - Cleans a player's storage`
-
+- /storage - Allows you to open your own storage
+- /storage permission - open the permission menu
+- /storage addplayer <player> - Adds a player to your storage
+- /storage removeplayer <player> - Deletes a player from your storage
+- /storage open <player> - Accesses the storage of a player who has added you
+- /storage admin open <player> - Provides access to a player's storage
+- /storage admin delete <player> - Cleans a player's storage
 
 Permissions
 
-`rvaults.admin - allows to use administrator commands default: op`
-`rvaults.size.<1-6> - sets the storage limit`
+- `rvaults.admin - allows to use administrator commands default: op`
+- `rvaults.size.<1-6> - sets the storage limit`
 
 Contact us
 
